@@ -24,5 +24,5 @@ fun AppAndroidPreview() {
     App()
 
 
-    /* sadjkdjskjdaskjfalskflaskflaskflaskflsakflaskflsakflaoktaygot */
+    /* sjdaıkjsda*/
 }
